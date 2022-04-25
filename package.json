@@ -1,0 +1,16 @@
+{
+  "name": "samurai-tests",
+  "version": "1.0.0",
+  "description": "Projeto de testes de aceitação de ponta a ponta em Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Talita  Nogueira",
+  "license": "MIT",
+  "devDependencies": {
+    "@faker-js/faker": "^6.1.2",
+    "cypress": "^9.5.4",
+    "pg": "^8.7.3"
+  }
+}
